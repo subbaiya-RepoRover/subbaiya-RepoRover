@@ -1,9 +1,9 @@
-👋 Hi, I’m @subbaiya-RepoRover
-👀 I’m interested in web development
-🌱 I’m currently learning Computer Science and Buisness System
-💬 Ask me about anything; I am happy to help
-📫 How to reach me: subbaiya.manokaran@gmail.com
-😄 Pronouns: He/Him/His
+-👋 Hi, I’m @subbaiya-RepoRover
+-👀 I’m interested in web development
+-🌱 I’m currently learning Computer Science and Buisness System
+-💬 Ask me about anything; I am happy to help
+-📫 How to reach me: subbaiya.manokaran@gmail.com
+-😄 Pronouns: He/Him/His
 
 <!---
 I'm subbaiya, a passionate developer from Nagerciol, Tamil Nadu. With a keen interest in programming and web development.
